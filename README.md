@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Prathmesh 👋
 
-<!--
-**Prathmeshkangane/Prathmeshkangane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE-AIML '26 | University of Mumbai  
+🤖 ML Engineer | NLP | Computer Vision | Deep Learning  
+📍 Mumbai, India | Open to Work
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Tech | Live |
+|---------|------|------|
+| [AI Mock Interview System](your-repo-link) | Flask, GPT-4, MediaPipe, NLTK | [Demo](#) |
+| [Research Paper Recommender](your-repo-link) | Sentence Transformers, TensorFlow, Streamlit | [Demo](#) |
+| [Emotion Detection Bot](your-repo-link) | LSTM, Librosa, TensorFlow, Streamlit | [Demo](#) |
+
+## 🛠️ Skills
+`Python` `TensorFlow` `PyTorch` `NLP` `Computer Vision` `Flask` `SQL` `AWS`
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/prathmeshbk)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:prathmesh.kangane2003@gmail.com)
