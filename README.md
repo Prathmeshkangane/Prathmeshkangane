@@ -8,8 +8,8 @@
 
 | Project | Tech | Live |
 |---------|------|------|
-| [AI Mock Interview System](your-repo-link) | Flask, GPT-4, MediaPipe, NLTK | [Demo](#) |
-| [Research Paper Recommender](your-repo-link) | Sentence Transformers, TensorFlow, Streamlit | [Demo](#) |
+| [AI Mock Interview System](https://github.com/Prathmeshkangane/interviewAi.git) | Flask, GPT-4, MediaPipe, NLTK | [Demo]([https://interview-aprathmesh-k.vercel.app/] |
+| [Research Paper Recommender]([your-repo-link](https://github.com/Prathmeshkangane/research-paper.git)) | Sentence Transformers, TensorFlow, Streamlit | [Demo](#) |
 | [Emotion Detection Bot](your-repo-link) | LSTM, Librosa, TensorFlow, Streamlit | [Demo](#) |
 
 ## 🛠️ Skills
