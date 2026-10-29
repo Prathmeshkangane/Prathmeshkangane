@@ -13,17 +13,17 @@ I build end-to-end AI systems, from model training to deployed apps. My work cov
 ### 🎤 AI Mock Interview Platform
 Production-grade interview coach with real-time speech recognition, emotion tracking, STAR-method scoring, filler-word detection, WPM analysis, and PDF reports.  
 **Stack:** React, TypeScript, FastAPI, Gemini 2.5 Flash, custom DistilBERT classifier (Hugging Face)  
-🔗 [Model](https://huggingface.co/Prathmesh0001/interview-AI) · [Code](<repo-link>)
+🔗 [Model](https://huggingface.co/Prathmesh0001/interview-AI) · [Code](https://github.com/Prathmeshkangane/interviewAi.git)
 
 ### 📚 AI Research Assistant (RAG over ArXiv)
 Semantic search and question answering over 10,000 ArXiv papers using vector retrieval and LLM-generated answers. Containerized with Docker Compose (app + MySQL).  
 **Stack:** Flask, FAISS, Sentence Transformers, Gemini, MySQL, Docker  
-🔗 [Code](<repo-link>)
+🔗 [Code](https://github.com/Prathmeshkangane/AI-Research-Assistant.git)
 
 ### 🎧 Speech Emotion Recognition
 Stacked LSTM classifier on MFCC and spectrogram features across 7 emotion classes, trained on RAVDESS + TESS. Reached **~81% test accuracy (macro F1 0.81)**.  
 **Stack:** TensorFlow/Keras, librosa, Streamlit  
-🔗 [Code](https://github.com/Prathmesh0001761/Detection-of-emotions-using-deep-learning)
+🔗 [Code](https://github.com/Prathmeshkangane/Emosense.git)
 
 ---
 
@@ -80,7 +80,6 @@ Stacked LSTM classifier on MFCC and spectrogram features across 7 emotion classe
 
 ## 🧩 Problem Solving
 - Striver's A2Z DSA Sheet: 106/455 solved
-- LeetCode: 57 problems solved
 
 ---
 
