@@ -49,7 +49,6 @@ Stacked LSTM classifier on MFCC and spectrogram features across 7 emotion classe
 | Role | Organisation | Period |
 |---|---|---|
 | AI-Based Image Transformation Tool for Cartoon Effect Generation (Internship 6.0) | Infosys Springboard | Feb – Apr 2026 |
-| Software Development Engineer (SDE) Intern, remote | Bluestock Fintech | Jan – Feb 2026 |
 | Emerging Technologies (AI & Cloud) internship with IBM SkillsBuild & IBM Cloud, in collaboration with AICTE | Edunet Foundation | Jul – Aug 2025 |
 | AI/ML internship via AICTE/Elevate | Microsoft | 2025 |
 
